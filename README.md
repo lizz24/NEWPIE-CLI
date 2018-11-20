@@ -1,1 +1,5 @@
-# week4
+# DEVELOPING A COMMAND LINE APPLICATION THAT CONSUMES THE NEWSAPI
+
+## REQUIREMENTS
+-- click installation
+-- requests installation
