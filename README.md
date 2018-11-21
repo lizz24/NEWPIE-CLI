@@ -2,9 +2,10 @@
 > A news app that works in the command line
 
 
-[![Newpie Version][npm-image]]
-[![Build Status][travis-image]]
-[![Downloads Stats][npm-downloads]]
+[![NPM Version][npm-image]][npm-url]
+[![Build Status][travis-image]][travis-url]
+[![Downloads Stats][npm-downloads]][npm-url]
+
 
 Newpie offers a list of four news sources.The user is able to make a choice of a preferred news source.User gets back a list of the top 10 headlines from the preferred source. A news headline has a title, description and a url in case the user needs to follow up on the news story.
 
