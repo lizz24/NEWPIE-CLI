@@ -34,10 +34,8 @@ def listsources():
                 results.append(s["id"])
             
    	
-	for i in range(4): 
-		
-		# printing all trending newssources
-		    click.echo(results[i])	
+	for i in results[0:4]:
+            print(i)	
 
 
 @main.command()
@@ -59,15 +57,13 @@ def topheadlines():
 	
           for h in headline: 
                 click.echo('\n')
-                click.echo(click.style('TITLE: ' + h['title'], fg='green'))
-                click.echo(click.wrap_text(h['description']))
-                click.echo(click.style('DOMAIN: ' + h['url'], fg='blue'))
+                click.secho(click.style('TITLE: ' + h['title'], fg='green'))
+                click.secho(click.wrap_text(h['description']))
+                click.secho(click.style('DOMAIN: ' + h['url'], fg='blue'))
            
            	
-          for i in range(10): 
-		
-		# printing all trending newssources
-            click.echo(output[i])
+          for i in output[:11]:
+                print(i)
 
 
 if __name__ == '__main__':
