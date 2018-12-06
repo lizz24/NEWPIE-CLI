@@ -1,5 +1,6 @@
 # NEWPIE
 [![Build Status](https://travis-ci.org/lizz24/NEWPIE-CLI.svg?branch=master)](https://travis-ci.org/lizz24/NEWPIE-CLI)
+[![Coverage Status](https://coveralls.io/repos/github/lizz24/NEWPIE-CLI/badge.svg?branch=master)](https://coveralls.io/github/lizz24/NEWPIE-CLI?branch=master)
 > A news app that works in the command line
 
 
