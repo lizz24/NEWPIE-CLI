@@ -10,4 +10,4 @@ install:
  
 
 script:
-  - nosetests --with-coverage --cover-package=app
+  - nosetests --with-coverage 
