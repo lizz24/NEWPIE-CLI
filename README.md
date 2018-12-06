@@ -1,4 +1,5 @@
 # NEWPIE
+[![Build Status](https://travis-ci.org/lizz24/NEWPIE-CLI.svg?branch=master)](https://travis-ci.org/lizz24/NEWPIE-CLI)
 > A news app that works in the command line
 
 
