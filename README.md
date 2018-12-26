@@ -1,5 +1,6 @@
 # NEWPIE
 [![Build Status](https://travis-ci.org/lizz24/NEWPIE-CLI.svg?branch=master)](https://travis-ci.org/lizz24/NEWPIE-CLI)
+[![Maintainability](https://api.codeclimate.com/v1/badges/55970b4fd292958b584d/maintainability)](https://codeclimate.com/github/lizz24/NEWPIE-CLI/maintainability)
 
 > A news app that works in the command line
 
